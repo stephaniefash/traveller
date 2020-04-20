@@ -1,0 +1,24 @@
+{
+  "dates": {
+    "image": "data:image/svg+xml;base64,\nPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgY2xhc3M9ImhvdmVyZWQtcGF0aHMiPjxnPjxwYXRoIGQ9Im00NDggNjRoLTIxLjMzMjAzMXYtNDIuNjY3OTY5YzAtMTEuNzczNDM3LTkuNTU4NTk0LTIxLjMzMjAzMS0yMS4zMzU5MzgtMjEuMzMyMDMxaC0yMS4zMzIwMzFjLTExLjc3NzM0NCAwLTIxLjMzMjAzMSA5LjU1ODU5NC0yMS4zMzIwMzEgMjEuMzMyMDMxdjQyLjY2Nzk2OWgtMjEzLjMzNTkzOHYtNDIuNjY3OTY5YzAtMTEuNzczNDM3LTkuNTU0Njg3LTIxLjMzMjAzMS0yMS4zMzIwMzEtMjEuMzMyMDMxaC0yMS4zMzIwMzFjLTExLjc3NzM0NCAwLTIxLjMzNTkzOCA5LjU1ODU5NC0yMS4zMzU5MzggMjEuMzMyMDMxdjQyLjY2Nzk2OWgtMjEuMzMyMDMxYy0zNS4yODUxNTYgMC02NCAyOC43MTQ4NDQtNjQgNjR2MzIwYzAgMzUuMjg1MTU2IDI4LjcxNDg0NCA2NCA2NCA2NGgzODRjMzUuMjg1MTU2IDAgNjQtMjguNzE0ODQ0IDY0LTY0di0zMjBjMC0zNS4yODUxNTYtMjguNzE0ODQ0LTY0LTY0LTY0em0yMS4zMzIwMzEgMzg0YzAgMTEuNzUzOTA2LTkuNTc4MTI1IDIxLjMzMjAzMS0yMS4zMzIwMzEgMjEuMzMyMDMxaC0zODRjLTExLjc1MzkwNiAwLTIxLjMzMjAzMS05LjU3ODEyNS0yMS4zMzIwMzEtMjEuMzMyMDMxdi0yMzMuODEyNWg0MjYuNjY0MDYyem0wIDAiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIGNsYXNzPSJob3ZlcmVkLXBhdGggYWN0aXZlLXBhdGgiIHN0eWxlPSJmaWxsOiNGRjAwRkYiIGRhdGEtb2xkX2NvbG9yPSIjMDAwMDAwIj48L3BhdGg+PC9nPiA8L3N2Zz4=",
+    "data": [
+      "April 22 - April 28",
+      "May 10 - May 18",
+      "Sept 2 - Oct 4",
+      "March 2 - April 2",
+      "Dec 22 - Dec 28"
+    ]
+  },
+  "rooms":{
+    "image": "",
+    "data": [1,2,3,4, "4+"]
+  },
+  "adults":{
+    "image": "",
+    "data": [1,2,3,4, "4+"]
+  },
+  "child":{
+    "image": "",
+    "data": [1,2,3,4, "4+"]
+  }
+}

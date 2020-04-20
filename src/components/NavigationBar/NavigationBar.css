@@ -1,0 +1,45 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: space-between;
+  padding: 30px 60px 0 60px;
+}
+
+.navbar-left,
+.navbar-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bolder;
+  margin-right: 60px;
+}
+
+.sign-in-button {
+  background-color: #fa6444;
+  color: white;
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 30px;
+  padding: 0 20px 0 20px;
+  width: 120px;
+  margin: 0 80px 0 30px;
+  height: 50px;
+  border: none;
+}
+
+.chat-icon {
+  width: 20px;
+  padding: 15px;
+  background-color: #f7f7fb;
+  border: #dfe1e5;
+  border-radius: 50%;
+}

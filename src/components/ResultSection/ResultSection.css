@@ -1,0 +1,19 @@
+.result-section-container {
+  margin: 60px 30px 0 30px;
+  background-color: #f7f7fb;
+  border: #f7f7fb 1px solid;
+  border-radius: 120px;
+  display: grid;
+}
+
+.section {
+  border: #fa6444 1px solid;
+}
+
+.column-1-result {
+  grid-column: 1 / 2;
+}
+
+.column-2-result {
+    grid-column: 2 / 5;
+}
