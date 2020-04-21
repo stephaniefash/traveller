@@ -17,3 +17,7 @@
 .column-2-result {
     grid-column: 2 / 5;
 }
+
+.hotels-header{
+  font-family: "Poppins", sans-serif;
+}
