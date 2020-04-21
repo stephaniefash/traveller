@@ -1,6 +1,3 @@
-import React, { Component } from "react";
-import Logo from "../logo.svg";
-
 export const parseDataIntoDropDownObject = (dataList) => {
   return dataList.data.map((value) => {
     return {

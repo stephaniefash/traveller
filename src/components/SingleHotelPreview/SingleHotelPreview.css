@@ -1,0 +1,37 @@
+.hotel-info-container,
+.hotel-preview-header,
+.button-div {
+  display: flex;
+}
+
+.hotel-info-container {
+  flex-direction: column;
+    border: white 1px solid;
+    border-radius: 20px;
+}
+
+.hotel-image{
+    width: 100%;
+}
+
+.hotel-info-container {
+  background-color: white;
+}
+
+.hotel-preview-header {
+  font-size: 20px;
+  font-weight: bold;
+  flex-wrap: wrap;
+}
+
+.hotel-data-container {
+  padding: 20px 20px 25px 20px;
+}
+
+.button-div {
+  flex-direction: row;
+}
+
+button{
+  margin-right: 20px;
+}
