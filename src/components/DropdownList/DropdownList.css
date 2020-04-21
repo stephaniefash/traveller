@@ -1,11 +1,10 @@
-
-.dropdown-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+.dropdown-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
-.single-dropdown{
-    padding: 0 10px 0 10px;
+.single-dropdown {
+  padding: 0 10px 0 10px;
 }

@@ -5,7 +5,9 @@ export const SingleNavBarItem = ({ iconUrl, navBarName }) => {
   const handleImage = () => {
     return iconUrl !== undefined ? (
       <img className="single-image-icon" src={iconUrl} alt="nav icon" />
-    ) : ("");
+    ) : (
+      ""
+    );
   };
 
   return (

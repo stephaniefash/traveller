@@ -6,14 +6,14 @@ export default class MockApiData {
   };
 
   getNoOfRooms = () => {
-    return Data.rooms
-  }
+    return Data.rooms;
+  };
 
   getNoOfAdults = () => {
-    return Data.adults
-  }
+    return Data.adults;
+  };
 
   getNoOfChildren = () => {
-    return Data.child
-  }
+    return Data.child;
+  };
 }
