@@ -18,6 +18,6 @@ export default class MockApiData {
   };
 
   getHotelData = () => {
-    return Data.availableHotelData
-  }
+    return Data.availableHotelData;
+  };
 }

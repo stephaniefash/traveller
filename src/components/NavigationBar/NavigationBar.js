@@ -35,7 +35,7 @@ export const NavigationBar = () => {
         <SingleNavBarItem navBarName="Register" />
         <button className="sign-in-button"> Sign in</button>
         <div className="chat-icon-div">
-        <img src={chatIcon} alt="chat-icon" className="chat-icon" />
+          <img src={chatIcon} alt="chat-icon" className="chat-icon" />
         </div>
       </div>
     </div>
