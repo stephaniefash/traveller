@@ -1,6 +1,6 @@
 import React from "react";
 import "./ResultSection.css";
-import { SingleHotelPreview } from "../SingleHotelPreview/SingleHotelPreview";
+import { PreviewSingleHotel } from "../PreviewSingleHotel/PreviewSingleHotel";
 import MockApiData from "../../mockApi/MockApiData";
 
 export const ResultSection = () => {
@@ -9,7 +9,7 @@ export const ResultSection = () => {
     return mockApiData.getHotelData().map((hotel) => {
       const { image, tags, text } = hotel;
       return (
-        <SingleHotelPreview
+        <PreviewSingleHotel
           imageUrl={image}
           tags={[tags[0], tags[1]]}
           text={text}
