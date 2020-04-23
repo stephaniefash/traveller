@@ -9,8 +9,8 @@ export const SingleHotelPreview = ({ imageUrl, text, tags }) => {
       <div className="hotel-data-container">
         <h1 className="hotel-preview-header">{text}</h1>
         <div className="button-div">
-          <CustomButtonSmall text={tags[0]} isRating={true} />
-          <CustomButtonSmall text={tags[1]} isRating={false} />
+          <CustomButtonSmall className="preview-custom-button" text={tags[0]} isRating={true} />
+          <CustomButtonSmall className="preview-custom-button" text={tags[1]} isRating={false} />
         </div>
       </div>
     </div>

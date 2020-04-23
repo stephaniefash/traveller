@@ -4,10 +4,7 @@
   border: #f7f7fb 1px solid;
   border-radius: 120px;
   display: grid;
-}
-
-.section {
-  border: #fa6444 1px solid;
+  padding: 60px 40px 40px 40px;
 }
 
 .column-1-result {
@@ -16,6 +13,10 @@
 
 .column-2-result {
   grid-column: 2 / 5;
+  display: grid;
+  grid-gap: 40px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
 }
 
 .hotels-header {

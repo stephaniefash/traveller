@@ -7,32 +7,38 @@
 .hotel-info-container {
   flex-direction: column;
   border: none;
-  border-radius: 20px;
+  border-radius: 30px;
+  background-color: white;
   overflow: hidden;
+  width: 320px;
+  height: 450px;
 }
 
 .hotel-image {
   width: 100%;
-}
-
-.hotel-info-container {
-  background-color: white;
+  height: 300px;
+  object-fit: cover;
 }
 
 .hotel-preview-header {
   font-size: 20px;
-  font-weight: bold;
-  text-overflow: ellipsis;
+  font-weight: bolder;
+  height: 60px;
+  text-overflow-ellipsis: true;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .hotel-data-container {
-  padding: 20px 20px 25px 20px;
+  padding: 20px 30px 25px 40px;
 }
 
 .button-div {
   flex-direction: row;
 }
 
-button {
+.custom-button {
   margin-right: 20px;
 }

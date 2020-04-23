@@ -16,4 +16,8 @@ export default class MockApiData {
   getNoOfChildren = () => {
     return Data.child;
   };
+
+  getHotelData = () => {
+    return Data.availableHotelData
+  }
 }
