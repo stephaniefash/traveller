@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project was inspired by [Anton Mikhaltsov](https://dribbble.com/shots/7971084-Find-deals-for-any-season). I still hate css
+
+
+
+![alt text](https://github.com/stephaniefash/traveller/blob/master/screenshot.png)
+
+
 
 ## Available Scripts
 
